@@ -5,19 +5,28 @@
 - name: Danielle Benesch
   pic: 2
   position: Master\'s Student
-
-- name: Name
-  pic: 3
-  position: Role
-
-- name: Name
+  
+- name: Xinyi Zhang
   pic: 4
-  position: Role
-
-- name: Name
+  position: Master\'s Student
+  
+  - name: Malahat Mehraban
   pic: 5
-  position: Role
-
-- name: Name
+  position: Master\'s Student
+ 
+ - name: Alexandre Petrosky
   pic: 6
-  position: Role
+  position:  Master\'s Student
+  
+  - name: Homayoun Sohrabpour
+  pic: 6
+  position: PhD Candidate
+
+- name: Hoa Tran
+  pic: 7
+  position: Postdoctoral Fellow
+
+
+
+
+
